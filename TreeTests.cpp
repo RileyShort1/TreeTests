@@ -212,11 +212,19 @@ int main()
 
    // auto start = high_resolution_clock::now();
 
-   for (double i = 50.0; i < 1000.0; i+= 50.0)
+   for (double i = 1.0; i < 25.0; i++)
    {
-        testClass.searchTests("testTimes50by50.csv", i, 1000000);
+        testClass.searchTests("testTimes.csv", i, 1000000);
         std::cout << "i = " << i << "\n";
    }
+
+   for (double i = 50.0; i < 1000.0; i += 50.0)
+   {
+       testClass.searchTests("testTimes50by50.csv", i, 1000000);
+       std::cout << "i = " << i << "\n";
+   }
+
+
 
 
     //auto stop = high_resolution_clock::now();
