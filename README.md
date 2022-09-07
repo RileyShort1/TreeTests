@@ -6,4 +6,4 @@ question to the root of the tree with a series of rotations called Splaying. It 
 
 RESULTS:
 
-xfun::embed_file("graphStddevCompare.pdf")
+The final standard deviation value of the find pool at which Splay still outperforms AVL is 5. At a stddev value of 5 the difference is minimal, but Splay is still marginally faster, after that point, the difference begins to grow considerably with AVL being faster. 
