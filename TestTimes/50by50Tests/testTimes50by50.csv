@@ -1,0 +1,295 @@
+Rand seeds 0-9, Stddev of finds = 50, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2253, 1000000
+Splay avg time: 0.2717, 1000000
+
+Rand seeds 0-9, Stddev of finds = 100, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2361, 1000000
+Splay avg time: 0.2960, 1000000
+
+Rand seeds 0-9, Stddev of finds = 150, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2457, 1000000
+Splay avg time: 0.3131, 1000000
+
+Rand seeds 0-9, Stddev of finds = 200, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2555, 1000000
+Splay avg time: 0.3284, 1000000
+
+Rand seeds 0-9, Stddev of finds = 250, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2641, 1000000
+Splay avg time: 0.3417, 1000000
+
+Rand seeds 0-9, Stddev of finds = 300, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2703, 1000000
+Splay avg time: 0.3522, 1000000
+
+Rand seeds 0-9, Stddev of finds = 350, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2781, 1000000
+Splay avg time: 0.3637, 1000000
+
+Rand seeds 0-9, Stddev of finds = 400, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2839, 1000000
+Splay avg time: 0.3724, 1000000
+
+Rand seeds 0-9, Stddev of finds = 450, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2903, 1000000
+Splay avg time: 0.3820, 1000000
+
+Rand seeds 0-9, Stddev of finds = 500, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2949, 1000000
+Splay avg time: 0.3895, 1000000
+
+Rand seeds 0-9, Stddev of finds = 550, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.2998, 1000000
+Splay avg time: 0.3966, 1000000
+
+Rand seeds 0-9, Stddev of finds = 600, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3047, 1000000
+Splay avg time: 0.4043, 1000000
+
+Rand seeds 0-9, Stddev of finds = 650, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3078, 1000000
+Splay avg time: 0.4102, 1000000
+
+Rand seeds 0-9, Stddev of finds = 700, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3118, 1000000
+Splay avg time: 0.4161, 1000000
+
+Rand seeds 0-9, Stddev of finds = 750, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3143, 1000000
+Splay avg time: 0.4209, 1000000
+
+Rand seeds 0-9, Stddev of finds = 800, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3172, 1000000
+Splay avg time: 0.4255, 1000000
+
+Rand seeds 0-9, Stddev of finds = 850, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3209, 1000000
+Splay avg time: 0.4310, 1000000
+
+Rand seeds 0-9, Stddev of finds = 900, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3249, 1000000
+Splay avg time: 0.4373, 1000000
+
+Rand seeds 0-9, Stddev of finds = 950, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3280, 1000000
+Splay avg time: 0.4417, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1000, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3312, 1000000
+Splay avg time: 0.4469, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1050, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3319, 1000000
+Splay avg time: 0.4484, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1100, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3401, 1000000
+Splay avg time: 0.4597, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1150, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3356, 1000000
+Splay avg time: 0.4558, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1200, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3405, 1000000
+Splay avg time: 0.4624, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1250, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3386, 1000000
+Splay avg time: 0.4611, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1300, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3438, 1000000
+Splay avg time: 0.4680, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1350, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3459, 1000000
+Splay avg time: 0.4716, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1400, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3480, 1000000
+Splay avg time: 0.4751, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1450, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3490, 1000000
+Splay avg time: 0.4766, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1500, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3548, 1000000
+Splay avg time: 0.4840, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1550, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3609, 1000000
+Splay avg time: 0.4927, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1600, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3596, 1000000
+Splay avg time: 0.4921, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1650, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3592, 1000000
+Splay avg time: 0.4921, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1700, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3641, 1000000
+Splay avg time: 0.4984, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1750, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3615, 1000000
+Splay avg time: 0.4961, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1800, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3640, 1000000
+Splay avg time: 0.4996, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1850, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3652, 1000000
+Splay avg time: 0.5024, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1900, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3662, 1000000
+Splay avg time: 0.5041, 1000000
+
+Rand seeds 0-9, Stddev of finds = 1950, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3691, 1000000
+Splay avg time: 0.5078, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2000, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3687, 1000000
+Splay avg time: 0.5084, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2050, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3793, 1000000
+Splay avg time: 0.5215, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2100, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3768, 1000000
+Splay avg time: 0.5186, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2150, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3761, 1000000
+Splay avg time: 0.5186, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2200, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3733, 1000000
+Splay avg time: 0.5163, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2250, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3766, 1000000
+Splay avg time: 0.5205, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2300, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3789, 1000000
+Splay avg time: 0.5235, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2350, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3810, 1000000
+Splay avg time: 0.5266, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2400, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3828, 1000000
+Splay avg time: 0.5293, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2450, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3819, 1000000
+Splay avg time: 0.5288, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2500, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3838, 1000000
+Splay avg time: 0.5319, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2550, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3868, 1000000
+Splay avg time: 0.5354, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2600, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3875, 1000000
+Splay avg time: 0.5369, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2650, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3948, 1000000
+Splay avg time: 0.5458, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2700, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3939, 1000000
+Splay avg time: 0.5456, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2750, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3931, 1000000
+Splay avg time: 0.5455, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2800, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3920, 1000000
+Splay avg time: 0.5437, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2850, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3929, 1000000
+Splay avg time: 0.5463, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2900, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3981, 1000000
+Splay avg time: 0.5527, 1000000
+
+Rand seeds 0-9, Stddev of finds = 2950, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 1000000
+mean of searched data is half tree size
+AVL avg time: 0.3943, 1000000
+Splay avg time: 0.5489, 1000000
+
