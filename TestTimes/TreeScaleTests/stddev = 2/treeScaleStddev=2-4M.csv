@@ -1,0 +1,5 @@
+Rand seeds 0-9, Stddev of finds = 2, Finding 50000 normal, AVL and Splay Tree with microsecond time containing nums 0 - 4000000
+mean of searched data is half tree size
+AVL avg time: 0.2051, 4000000
+Splay avg time: 0.1826, 4000000
+
